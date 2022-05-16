@@ -1,0 +1,7 @@
+{
+  "watch": ["app/"],
+  "ext": ".ts,.js",
+  "ignore": [".git", "node_modules/*"],
+  "exec": "ts-node ./server.ts" 
+}
+ 
